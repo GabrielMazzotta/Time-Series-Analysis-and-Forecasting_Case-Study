@@ -11,12 +11,14 @@ In this project, I analyze the monthly sales data of a medium-sized rental store
 ## Models and Concepts
 - Seasonal Decomposition
 - Exponential Smoothing Holt-Winters
+- Augmented Dickey–Fuller test
 - SARIMA
-- Metrics and measure: MSE, AIC. 
+- Metrics and measure: RMSE (Root Mean Squared Error), AIC. 
  
 ## Language/Libraries
 * Python / Jupyter notebooks
 * Statsmodels
+* Scipy
 * Sklearn.metrics
 * Pandas
 * Numpy
